@@ -1,4 +1,4 @@
-## Oii, eu sou a Bianca Nogueira, criadora de conteúdo de programação e tecnologia! 👋
+## Oii, eu sou a Bianca Nogueira! 👋
 
 <!-- *\biancasnogueira/biancasnogueira** é um repositório ✨ _especial_ ✨ porque o `README.md` (este arquivo) aparece no seu perfil do GitHub.* -->
 
