@@ -2,14 +2,13 @@
 
 <!-- *\biancasnogueira/biancasnogueira** é um repositório ✨ _especial_ ✨ porque o `README.md` (este arquivo) aparece no seu perfil do GitHub.* -->
 
-Aqui estão algumas ideias para você começar:
+<!-- Aqui estão algumas ideias para você começar: -->
 
-- 🔭 Atualmente estou trabalhando em ... Desenvolvimento de Software
 - 🌱 Atualmente estou aprendendo ... React, Node.js e Python
 - 👯 Estou procurando colaborar em ... Projetos de desenvolvimento web e software open-source
-- 🤔 Estou procurando ajuda com ... Mentoria em arquiteturas escaláveis e melhores práticas em desenvolvimento
-- 📫 Como me encontrar: Veja abaixo meus contatos
+- 🤔 Estou procurando ajuda com ... Primeiro emprego na área de desenvolvimento 
 - ⚡ Curiosidade: Adoro cuidar do meu carro e passo horas aperfeiçoando cada detalhe para mantê-lo em perfeito estado
+- 📫 Como me encontrar: Veja abaixo meus contatos
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bianca-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
