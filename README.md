@@ -7,7 +7,6 @@
 - 🌱 Atualmente estou aprendendo ... React, Node.js e Python
 - 👯 Estou procurando colaborar em ... Projetos de desenvolvimento web e software open-source
 - 🤔 Estou procurando ajuda com ... Primeiro emprego na área de desenvolvimento 
-- ⚡ Curiosidade: Adoro cuidar do meu carro e passo horas aperfeiçoando cada detalhe para mantê-lo em perfeito estado
 - 📫 Como me encontrar: Veja abaixo meus contatos
 
 <div style="display: inline_block"><br>
