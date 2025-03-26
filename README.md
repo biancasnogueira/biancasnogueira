@@ -14,13 +14,13 @@
 </div>
 
 <div align="center"> 
-  <a href="mailto:nogbianca@outlook.com">
+  <a href="mailto:nogbianca@outlook.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
-  <a href="https://biancanogueira.com" target="_blank">
+  <a href="https://biancanogueira.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/biancasilvanogueira/" target="_blank">
+  <a href="https://www.linkedin.com/in/biancasilvanogueira/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
