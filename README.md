@@ -1,7 +1,7 @@
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https://github.com/biancasnogueira&label=Visitors&countColor=%237B1E7A" />
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https://github.com/biancasnogueira&label=Visitors&countColor=%23521797" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=30&center=true&vCenter=true&width=450&height=50&duration=4000&lines=Hi+There!+👋;I'm+Bianca+Nogueira!" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=30&center=true&vCenter=true&width=450&height=50&duration=4000&color=521797&lines=Hi+There!+👋;I'm+Bianca+Nogueira!" alt="Typing Effect" />
 </h1>
 
 <h3 align="center">Passionate Software Developer from Brazil</h3>
