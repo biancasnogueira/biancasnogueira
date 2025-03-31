@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=30&center=true&vCenter=true&width=450&height=50&duration=4000&color=521797&lines=Hi+There!+👋;I'm+Bianca+Nogueira!" alt="Typing Effect" />
 </h1>
 
-<h3 align="center">Passionate Software Developer from Brazil</h3>
+<h3 align="center">Full Stack Developer | Passionate about Web Development</h3>
 
 <div align="center">
   - 🔭 Working on my portfolio<br>
