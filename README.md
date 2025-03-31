@@ -28,7 +28,7 @@
 <h2 align="center">⚒️ Tecnologias & Ferramentas ⚒️</h2>
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" alt="Tech Stack 1" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vscode,github,figma,git" alt="Tech Stack 1" /> 
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb,mysql" alt="Tech Stack 2" />
 </div>
 
