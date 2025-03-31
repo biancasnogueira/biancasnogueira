@@ -29,7 +29,7 @@
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,git" alt="Tech Stack 1" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,mongodb,mysql" alt="Tech Stack 2" />
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,mongodb,mysql" alt="Tech Stack 2" />
 </div>
 
 <h2 align="center">⚡ Estatísticas do GitHub ⚡</h2>
