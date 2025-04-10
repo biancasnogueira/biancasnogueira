@@ -1,7 +1,7 @@
 <img align="right" src="https://api.visitorbadge.io/api/visitors?path=https://github.com/biancasnogueira&label=Visitantes&countColor=%23521797" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=30&center=true&vCenter=true&width=450&height=50&duration=4000&color=521797&lines=Olá!+👋;Eu+sou+a+Bianca+Nogueira!" alt="Typing Effect" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=30&center=true&vCenter=true&width=450&height=50&duration=4000&color=521797&lines=Ol%C3%A1!+%F0%9F%91%8B;Eu+sou+a+Bianca+Nogueira!" alt="Typing Effect" />
 </h1>
 
 <h3 align="center">Desenvolvedora Web</h3>
